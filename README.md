@@ -1,2 +1,2 @@
-# ethereum_analysis
+# Ethereum Analysis
 Analysis of Ethereum to Dollar prices
